@@ -1,5 +1,5 @@
 import React from 'react';
-import placeholderImage from '/home/viveks/my-social-media-profile/src/img1.png'; // Add your placeholder image in the src folder and import it here
+import placeholderImage from 'src/img1.png'; // Add your placeholder image in the src folder and import it here
 
 function AboutMe() {
     return (
