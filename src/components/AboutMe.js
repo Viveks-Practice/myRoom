@@ -1,5 +1,5 @@
 import React from 'react';
-import placeholderImage from 'src/img1.png'; // Add your placeholder image in the src folder and import it here
+import placeholderImage from '../img1.png'; // Add your placeholder image in the src folder and import it here
 
 function AboutMe() {
     return (
